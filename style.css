@@ -5,7 +5,7 @@ body{
 }
 #home-banner{
     display: flex;
-    margin: 40px 20px 40px;
+    margin: 40px 20px 50px;
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
     
@@ -54,7 +54,7 @@ body{
 }
 #dream-big{
     display: flex;
-    margin: 40px 20px 40px;
+    margin: 40px 20px 50px;
     background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position-X: right;
