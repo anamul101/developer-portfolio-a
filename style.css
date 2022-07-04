@@ -30,6 +30,7 @@ body{
 .first-img img{
     width: 70%;
     padding-left: 8%;
+    margin-top: 10px;
    
 }
 .name-color{
@@ -48,3 +49,4 @@ body{
     font-weight: 700;
       
 }
+
