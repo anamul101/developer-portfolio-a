@@ -6,6 +6,9 @@ body{
 #home-banner{
     display: flex;
     margin: 40px 20px 40px;
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+    
 
 }
 .about-me{
@@ -48,5 +51,19 @@ body{
     color: white;
     font-weight: 700;
       
+}
+#dream-big{
+    display: flex;
+    margin: 40px 20px 40px;
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-X: right;
+    
+}
+#dream-big .about-me{
+    padding-left: 0; 
+}
+.tird-color{
+   color:#ff418c;
 }
 
